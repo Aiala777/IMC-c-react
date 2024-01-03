@@ -1,4 +1,10 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+Calculadora IMC com react e typescript. O diferencial e o operador ternário que faz com que o resultado se destaque na tabela de peso.
+
+
+
+
+
+
 
 ## Getting Started
 
